@@ -37,12 +37,14 @@ def single():
     move()
     turn_right()
     move()
-
+"""
+定義singe這個我需要使他重複做的指令
+"""
 def main():
     for i in range(3):
         single()
     """
-
+做3次sinle
     """
     pass
 
